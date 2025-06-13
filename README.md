@@ -20,7 +20,7 @@
 ![Home screen](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/6afd99ac7e2e602eaeac8719a33f2b572c3b609c/Images/Home%20Page.png)
 
 ### My Apps Screen
-![My Apps]()
+![My Apps](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/e6d3727f09df9876559767e8c6d2310d3cd6e477/Images/My%20Apps.png)
 
 ### Add Apps Screen
 ![Add Apps](images/HomePage.png)
