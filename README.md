@@ -26,4 +26,4 @@
 ![Add Apps](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/7bafe24364f745d0754ffca4d9444e3a43397ac7/Images/Add%20Apps.png)
 
 ### AI Analysis Screen
-![AI Analysis](Images/Add Apps.png)
+![AI Analysis](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/ecab05e5258caa50c65cde475bfdcd1518e64058/Images/AI%20analysis.png)
