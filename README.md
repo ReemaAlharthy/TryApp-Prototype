@@ -23,7 +23,7 @@
 ![My Apps]()
 
 ### Add Apps Screen
-![Add Apps](images/feedback-flow.png)
+![Add Apps](images/HomePage.png)
 
 ### AI Analysis Screen
 ![AI Analysis](images/feedback-flow.png)
