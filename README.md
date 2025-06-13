@@ -17,7 +17,7 @@
 ## 🖼️ App Screenshots
 
 ### 🏠 Home Screen
-![Home screen](images/home-screen.png)
+![Home screen]([images/home-screen.png](https://github.com/ReemaAlharthy/TryApp-Prototype/commit/4118130056dfae47999d16283b733e977b0cf259#r159889459))
 
 ### 📝 Feedback Flow
 ![Feedback process](images/feedback-flow.png)
