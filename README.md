@@ -17,7 +17,7 @@
 ## 🖼️ App Screenshots
 
 ### 🏠 Home Screen
-![Home screen]([[https://github.com/ReemaAlharthy/TryApp-Prototype/commit/4118130056dfae47999d16283b733e977b0cf259#r159889459](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/main/AI%20analysis.png?raw=true)](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/48f854c2b6157f38a631a0277e798123ca9e19ea/AI%20analysis.png))
+![Home screen](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/48f854c2b6157f38a631a0277e798123ca9e19ea/AI%20analysis.png)
 
 ### 📝 Feedback Flow
 ![Feedback process](images/feedback-flow.png)
