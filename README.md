@@ -23,7 +23,7 @@
 ![My Apps](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/e6d3727f09df9876559767e8c6d2310d3cd6e477/Images/My%20Apps.png)
 
 ### Add Apps Screen
-![Add Apps](Images/Add Apps.png)
+![Add Apps](https://github.com/ReemaAlharthy/TryApp-Prototype/blob/7bafe24364f745d0754ffca4d9444e3a43397ac7/Images/Add%20Apps.png)
 
 ### AI Analysis Screen
 ![AI Analysis](Images/Add Apps.png)
